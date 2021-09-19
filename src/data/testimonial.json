@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"Martin",
+        "designation":"Buenos Aires",
+        "image":"assets/img/testimonials/01.jpg",
+        "comment":"“ Medikids brinda una experiencia de usuario impecable!!!.”",
+        "rating":4
+    },
+    {
+        "id":2,
+        "name":"Marcos",
+        "designation":"Ciudad de Buenos Aires",
+        "image":"assets/img/testimonials/02.jpg",
+        "comment":"“ Medikids es un nuevo unicornio argentino! Hay que invertir en esta start-up!!. ”",
+        "rating":4
+    },
+    {
+        "id":3,
+        "name":"Santiago",
+        "designation":"Ciudad de Buenos Aires",
+        "image":"assets/img/testimonials/03.jpg",
+        "comment":"“ Con Medikids tengo todo el Plan de Salud organizado en el calendario. ”",
+        "rating":4
+    },
+    {
+        "id":4,
+        "name":"Roberto",
+        "designation":"Cordoba",
+        "image":"assets/img/testimonials/04.jpg",
+        "comment":"“ Tengo toda la carpeta médica de mi familia en Medikids, nunca tuve problemas para cargar un dato. ”",
+        "rating":4
+    },
+    {
+        "id":5,
+        "name":"Alec",
+        "designation":"Bariloche",
+        "image":"assets/img/testimonials/05.jpg",
+        "comment":"“ Medikids es una App muy recomendable a Amigos y Famialares. ”",
+        "rating":4
+    }
+]

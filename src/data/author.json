@@ -1,0 +1,302 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/team/01.jpg",
+        "name":"Dr Socolinsky",
+        "designation":"Founder & Ceo",
+        "shortdescription":"Reconocido Medico Pediatra Argentino y Periodista Consagrado con el Premio Konex de Platino a la Labor de Divulgación Científica.",
+        "longdescription":"Reconocido Medico Pediatra Argentino y Periodista Consagrado con el Premio Konex de Platino a la Labor de Divulgación Científica.",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "title":"Facebook",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "title":"Twitter",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-behance",
+                "title":"Behance",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-linkedin",
+                "title":"Linked In",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "title":"YouTube",
+                "url":"www.domain.com/username"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fas fa-phone",
+                "title":"Phone",
+                "text":[
+                    "+(123) 456-7890 8",
+                    "+987 868 6578 648"
+                ]
+            },
+            {
+                "icon":"fas fa-envelope",
+                "title":"Email",
+                "text":[
+                    "info@example.com",
+                    "job@webmail.com"
+                ]
+            },
+            {
+                "icon":"fas fa-map-marker-alt",
+                "title":"Address Info",
+                "text":[
+                    "24 Fifth st., New York, US"
+                ]
+            }
+        ]
+    },
+    {
+        "id":2,
+        "img":"assets/img/team/02.jpg",
+        "name":"Dr Cormillot",
+        "designation":"Medico Nutricionista",
+        "shortdescription":"Medico Nutricionista y Fundador de La compañia Alimenticia de Productos Saludables Cormillot.",
+        "longdescription":"Medico Nutricionista y Fundador de La compañia Alimenticia de Productos Saludables Cormillot.",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "title":"Facebook",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "title":"Twitter",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-behance",
+                "title":"Behance",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-linkedin",
+                "title":"Linked In",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "title":"YouTube",
+                "url":"www.domain.com/username"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fas fa-phone",
+                "title":"Phone",
+                "text":[
+                    "+(123) 456-7890 8",
+                    "+987 868 6578 648"
+                ]
+            },
+            {
+                "icon":"fas fa-envelope",
+                "title":"Email",
+                "text":[
+                    "info@example.com",
+                    "job@webmail.com"
+                ]
+            },
+            {
+                "icon":"fas fa-map-marker-alt",
+                "title":"Address Info",
+                "text":[
+                    "24 Fifth st., New York, US"
+                ]
+            }
+        ]
+    },
+    {
+        "id":3,
+        "img":"assets/img/team/03.jpg",
+        "name":"Dr- Claudio Zin",
+        "designation":"Co-founder",
+        "shortdescription":"Claudio Zin es un médico, político y columnista de radio y televisión italiano radicado en Argentina. Fue senador de Italia de 2013 a 2018, representando a los italianos residentes en Sudamérica.",
+        "longdescription":"Claudio Zin es un médico, político y columnista de radio y televisión italiano radicado en Argentina. Fue senador de Italia de 2013 a 2018, representando a los italianos residentes en Sudamérica.",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "title":"Facebook",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "title":"Twitter",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-behance",
+                "title":"Behance",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-linkedin",
+                "title":"Linked In",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "title":"YouTube",
+                "url":"www.domain.com/username"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fas fa-phone",
+                "title":"Phone",
+                "text":[
+                    "+(123) 456-7890 8",
+                    "+987 868 6578 648"
+                ]
+            },
+            {
+                "icon":"fas fa-envelope",
+                "title":"Email",
+                "text":[
+                    "info@example.com",
+                    "job@webmail.com"
+                ]
+            },
+            {
+                "icon":"fas fa-map-marker-alt",
+                "title":"Address Info",
+                "text":[
+                    "24 Fifth st., New York, US"
+                ]
+            }
+        ]
+    },
+    {
+        "id":4,
+        "img":"assets/img/team/06.jpg",
+        "name":"Dr Borocotó",
+        "designation":"Manager",
+        "shortdescription":"Medico y Politico Argentino, Tras recibirse de médico comenzó a trabajar en el Hospital de Niños y a dedicarse a la divulgación de temas médicos en programas de televisión. Fue Legislador en la Cámara de Diputados.",
+        "longdescription":"Medico y Politico Argentino, Tras recibirse de médico comenzó a trabajar en el Hospital de Niños y a dedicarse a la divulgación de temas médicos en programas de televisión. Fue Legislador en la Cámara de Diputados.",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "title":"Facebook",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "title":"Twitter",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-behance",
+                "title":"Behance",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-linkedin",
+                "title":"Linked In",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "title":"YouTube",
+                "url":"www.domain.com/username"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fas fa-phone",
+                "title":"Phone",
+                "text":[
+                    "+(123) 456-7890 8",
+                    "+987 868 6578 648"
+                ]
+            },
+            {
+                "icon":"fas fa-envelope",
+                "title":"Email",
+                "text":[
+                    "info@example.com",
+                    "job@webmail.com"
+                ]
+            },
+            {
+                "icon":"fas fa-map-marker-alt",
+                "title":"Address Info",
+                "text":[
+                    "24 Fifth st., New York, US"
+                ]
+            }
+        ]
+    },
+    {
+        "id":5,
+        "img":"assets/img/team/05.jpg",
+        "name":"Pokoloko K. Kilix",
+        "designation":"Manager",
+        "shortdescription":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "longdescription":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "title":"Facebook",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "title":"Twitter",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-behance",
+                "title":"Behance",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-linkedin",
+                "title":"Linked In",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "title":"YouTube",
+                "url":"www.domain.com/username"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fas fa-phone",
+                "title":"Phone",
+                "text":[
+                    "+(123) 456-7890 8",
+                    "+987 868 6578 648"
+                ]
+            },
+            {
+                "icon":"fas fa-envelope",
+                "title":"Email",
+                "text":[
+                    "info@example.com",
+                    "job@webmail.com"
+                ]
+            },
+            {
+                "icon":"fas fa-map-marker-alt",
+                "title":"Address Info",
+                "text":[
+                    "24 Fifth st., New York, US"
+                ]
+            }
+        ]
+    }
+]

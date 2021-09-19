@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"Pediatria"
+    },
+    {
+        "id":2,
+        "title":"Tecnologia"
+    },
+    {
+        "id":3,
+        "title":"Productos"
+    },
+    {
+        "id":4,
+        "title":"Buenas Practicas"
+    },
+    {
+        "id":5,
+        "title":"Vacunacion"
+    }
+]

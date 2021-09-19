@@ -1,0 +1,42 @@
+[
+    {
+        "icon": "pe-7s-diamond",
+        "title": "Capital Market",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "icon": "pe-7s-arc",
+        "title": "Data Analysis",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "icon": "pe-7s-refresh-2",
+        "title": "Human Resource",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "icon": "pe-7s-world",
+        "title": "Health Planing",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "icon": "pe-7s-target",
+        "title": "Health Reform",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "icon": "pe-7s-science",
+        "title": "Online Marketing",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "icon": "pe-7s-joy",
+        "title": "Financial Strategy",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "icon": "pe-7s-help2",
+        "title": "Sales & Trade",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    }
+]

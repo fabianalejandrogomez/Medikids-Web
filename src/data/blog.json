@@ -1,0 +1,298 @@
+[
+    {
+        "id": 1,
+        "title": "Innovación Pediátrica: Medikids App",
+        "image": [ "assets/img/blog/02.jpg"],
+        "views": 262,
+        "postdate": "17 de Septiembre de 2021",
+        "shortdescription": "El Dr Socolinsky explica porque recomienda a Medikids App.",
+        "longdescription": "<p class='mb-30'> Medikis nos sorprende con una aplicación de última generación, diseñada pensando en los padres de hoy en día, completamente atareados con videoconferencias y reuniones on-line. Ahora también pueden realizar el monitoreo de la salud de los chicos, utilizando esta nueva aplicación.</p><div class='line'></div><h3 class='subtitle'>Comenzando a Utilizar Medikids</h3><p> Medikids es muy fácil de utilizar En el menú principal pueden registrase todos los pacientes de la familia, para poder tener su historia medica por separado y poder controlarlos a todos a la vez.</p> <figure class='mt-45 mb-45'><img src='../assets/img/details/principal.png' alt='img'> </figure><div class='line'></div><h3 class='subtitle'>Como cargar los controles de salud de nuestros hijos?</h3><p> Es muy fácil! Primero se cargan las mediciones que los médicos nos recomiendan prestar atención, puede ser el peso, la longitud, la circunferencia craneana, etc. Cualquier medición pediátrica puede ser cargana den Medikids junto con su correspondiente unidad de medida</p><figure class='mt-45 mb-45'><img src='../assets/img/details/mediciones-menu.png' alt='img'> </figure><div class='line'></div><h3 class='subtitle'>Organizando los Estudios</h3><p> Una vez cargadas las mediciones y vacunaciones que los chicos tienen que tener, se pueden combinar y seleccionar fácilmente englobándolo en Estudios. De esta forma se reproduce el mismo formato que nos brindan los profesionales</p><figure class='mt-45 mb-45'><img src='../assets/img/details/dashboard.png' alt='img'> </figure><div class='line'></div><h3 class='subtitle'>Manejando el Calendario de Eventos</h3><p> Ahora que tenemos todos los estudios y vacunaciones que van a recibir nuestros hijos, cargadas en la App, solo queda elegir las fechas y planificar los eventos en el calendario e ir realizandolos. </p><figure class='mt-45 mb-45'><img src='../assets/img/details/calendario.png' alt='img'> </figure><div class='line'></div><h3 class='subtitle'>El Dashboard nos muestra todos los eventos para que no nos perdamos nada</h3><p> Es muy importante como padres respetar las fechas del calendario pediátrico, para que nuestros hijos avancen en todas las etapas que nos recomienda el doctor. </p><div class='line'></div><h3 class='subtitle'>Segui la performance de los indicadores claves de salud</h3><p> Todos las mediciones pueden ser monitoreadas con la App, para conocer las tendencias de crecimiento y salud de los indicadores pediátricos clave.</p><figure class='mt-45 mb-45'><img src='../assets/img/details/performance.png' alt='img'> </figure><ul class='list-icon'><p class='mb-30'> Vivi la experiencia de Medikids, probando la aplicación en forma gratuita por un mes.</p><blockquote class='mt-40 mb-40'> <span class='quote-by'>Dice Socolinsky</span> La forma de ser padres hoy está cambiando rápidamente gracias a los beneficios de la tecnología.</blockquote>",
+        "author": [1],
+        "categories": [
+            1,
+            2,
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url":"www.domain.com/username"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "date": "19th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "date": "20th Jan 2021",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "date": "18th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Calendario de Vacuncación Pediátrica.",
+        "image": [
+            "assets/img/blog/01.jpg"
+        ],
+        "views": 262,
+        "postdate": "18 de Septiembre de 2021",
+        "shortdescription": "No te pierdas una fecha de las vacunas que tu hijo tiene que tener.",
+        "longdescription": "<div class='line'></div><h3 class='subtitle'>¿Por qué son tan importantes las vacunas?</h3><p class='mb-30'> Según la Organización Mundial de la Salud (OMS), las vacunas y el agua potable son las dos herramientas más importantes para prevenir enfermedades.Hace muchos años, cuando aún no existían las vacunas, había epidemias que causaban secuelas irreversibles o miles de muertes por año. Un hito en la salud pública mundial fue la erradicación de la viruela en 1980. Actualmente se trabaja para erradicar la poliomielitis. En la Argentina, gracias a una correcta vacunación, ya no se registran casos autóctonos de sarampión desde el año 2000, de rubéola congénita desde 2009, El último caso de poliomielitis fue en 1984, difteria 2006, tétanos neonatal 2007 y se redujo en más del 96% los casos de trasplante hepáticos por el virus de la hepatitis A. Son estos mismos logros los que hacen fundamental a la vacunación como política de Estado.</p><div class='line'></div><h3 class='subtitle'>¿Qué puede pasar si no nos vacunamos?</h3><p> Si tenemos contacto con el microorganismo causante de la infección, corremos el riesgo de padecer la enfermedad y, por supuesto, sus formas graves o fatales. Además, es fundamental tomar conciencia de que no solo podemos enfermarnos nosotros, sino también contagiar a personas más vulnerables que no pueden recibir las vacunas por tener contraindicaciones para su aplicación.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/details/stamboulian1.jpg' alt='img'> </figure><figure class='mt-45 mb-45'> <img src='../assets/img/details/stamboulian2.jpg' alt='img'> </figure><h3 class='subtitle'> ¿Por qué los niños necesitan vacunarse aunque estén sanos?</h3><p> La mayoría de las enfermedades prevenibles causan cuadros benignos. Sin embargo, un niño sano puede tener complicaciones graves o fallecer por enfermedades que se previenen de forma muy eficaz y segura a través de la vacunación.</p><div class='line'></div><h3 class='subtitle'>¿Las vacunas del Calendario Nacional de Vacunación son solo para los niños?</h3><p> Por ejemplo, la primera vacuna, contra la hepatitis B, se aplica durante las primeras 12 horas de vida. Además, antes del egreso de la maternidad se aplica también la BCG. Todo adulto debe recibir refuerzo contra difteria y tétanos cada 10 años. Como algunas vacunas aplicadas durante la infancia pierden su eficacia con el tiempo, durante la adolescencia y adultez deben aplicarse dosis de refuerzo, así como también existen vacunas que tienen indicación precisa durante esta etapa.</p><div class='line'></div><h3 class='subtitle'>¿Una mujer embarazada puede recibir vacunas?</h3><ul class='list-icon'><li>Todas las embarazadas deben vacunarse para protegerse contra enfermedades que pueden causarle graves complicaciones durante ese período de la vida (la gripe, por ejemplo).</li><li>Las vacunas, además, protegen a sus bebés durante los primeros meses de vida (contra la tos convulsa, especialmente).</li><li>Algunas pocas vacunas están contraindicadas en el embarazo, pero, si la mujer lo necesita, se le pueden aplicar en el puerperio inmediato o previo al embarazo.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>Dice Colmillot</span> La vacunación es un acto responsable y solidario. La persona que no se vacuna, no solo se pone en riesgo a sí misma, sino también a toda la comunidad, especialmente a aquellos que son más vulnerables, como niños menores de 1 año que aún no han completado sus esquemas, embarazadas e inmunodeprimidos</blockquote><div class='line'></div><h3 class='subtitle'>¿Se puede recibir más de una vacuna el mismo día?</h3><p class='mb-30'> Pueden aplicarse varias vacunas durante una misma visita al centro de salud sin que causen complicaciones. Por eso mismo, es esencial aprovechar todas las oportunidades de consulta al sistema de salud para verificar la necesidad de vacunación</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/details/06.jpg' alt='img'></div><div class='col-md-7 mb-30'><div class='line'></div><h3 class='subtitle'>¿Qué síntomas puedo tener después de vacunarme?</h3><p> Una vacuna inyectable puede causar dolor, enrojecimiento e inflamación en el lugar de la aplicación. En general, estos efectos son leves y desaparecen espontáneamente. En un grupo pequeño de personas puede aparecer fiebre y decaimiento durante un par de días. Si surge alguna duda, se debe consultar al profesional de la salud.</p></div></div><p> En el momento en que un niño nace se recomienda que reciba las primeras vacunas y a lo largo de sus primeros años de vida se administran muchas de ellas. Pero es necesario destacar que en todas las etapas de la vida hay indicación de vacunas que protegen contra diversas enfermedades (adolescentes, adultos, adultos mayores, embarazadas). Por este motivo es importante que consultes a tu médico que vacunas te faltan.</p>",
+        "author": [2],
+        "categories": [
+            4,
+            5
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url":"www.domain.com/username"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Ana Lopez",
+                "img": "assets/img/details/comment-1.jpg",
+                "date": "18 de Septiembre de 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Carlos Fernandez",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "date": "20th Jan 2021",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "date": "18th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Controles Médicos Imprescindibles.",
+        "image": [
+            "assets/img/blog/03.jpg"
+        ],
+        "views": 262,
+        "postdate": "19 de Septiembre de 2021",
+        "shortdescription": "Conoce en que consisten los indicadores clave del crecimiento de tus hijos y porque es importante que como padres podamos estar atentos y analizarlos junto al pediatra.",
+        "longdescription": "<p class='mb-30'> Las visitas al pediatra no solo deben hacerse en caso de enfermedad, sino que también son importantes para los niños sanos. Cada control pediátrico incluye un examen físico completo. En este examen, el médico verifica el crecimiento y desarrollo del bebé o del niño con el fin de encontrar o prevenir problemas.<div class='line'></div><h3 class='subtitle'>¿Cuál es la importancia del control pediátrico en un niño sano?</h3>Se define crecimiento como el aumento de tamaño del organismo. Desarrollo, en cambio, es la aparición de nuevas características o la adquisición de nuevas habilidades.El control periódico del niño es fundamental para el crecimiento y desarrollo en salud, al igual que para detectar patologías y el seguimiento de las enfermedades crónicas.Es muy importante que la detección de alguna desviación de la normalidad en esos aspectos se haga en forma temprana, para mejorar el pronóstico del niño, y poder aprovechar el potencial que es mayor cuanto menor edad tenga el paciente, y menos evolucionada esté la enfermedad.</p><figure class='mt-45 mb-45'> <img src='../assets/img/details/controles.jpg' alt='img'> </figure><h3 class='subtitle'> ¿Qué se hace en el control?</h3><p> En el control de salud se toman las medidas antropométricas de peso, talla, perímetro cefálico, entre otras. Se miden los signos vitales. Pero no solo es pesar y medir al niño. Va mucho más allá de ello. El pediatra realiza una anamnesis sobre antecedentes relevantes familiares, sociales y personales. Hace un examen físico minucioso sobre todos los aparatos y sistemas, registrando anormalidades, e incluso va más allá de lo evidente y analiza vínculos familiares, apego, etc. Mientras examina al niño, ve como se desenvuelve, si cumple sus pautas madurativas y como se relaciona con el entorno. El pediatra debe “llegarle” al niño y ese es el mayor arte de un pediatra avezado.</p><div class='line'></div><h3 class='subtitle'>¿Qué recomendaciones obtendremos?</h3><p> En el control se aconseja sobre vacunas, sueño, alimentación saludable, juego, deportes, prevención de accidentes y todo lo que haga a la cotidianeidad del niño. Se indican las medidas profilácticas y preventivas necesarias y obligatorias, como el aporte de hierro y vitaminas en lactantes. El pediatra es una guía para la crianza del niño, enseña los cuidados que necesita el mismo, evacua dudas a los adultos y adapta sus métodos a la realidad de esa familia en particular. </p><div class='line'></div><h3 class='subtitle'>¿Cada cuánto se realizan? </h3><ul class='list-icon'><li> La periodicidad de los controles se hace en base a cada niño y su condición de salud. Hay, sin embargo, distintos esquemas de seguimiento estipulados.</li><li>– A las 48 hs de vida (esto se hace en la internación conjunta de la madre y el niño). </li><li>– Dentro de los primeros 10 días.</li><li>– Al mes de vida.</li><li>– Luego 1 vez por mes del segundo mes al año de vida .</li><li>– Luego cada 3 meses a los 21 y 24 meses </li><li>– Luego de los 3 años 1 vez por año </li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>Dice Borocotó</span> Los hijos necesitan los controles pediatricos, no se los olviden ! .</blockquote><div class='line'></div><h3 class='subtitle'>¿Qué otros controles se realizan?</h3><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/details/05.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> El servicio de pediatría cumple con las pruebas complementarias obligatorias en las leyes vigentes, con el aval de la Sociedad Argentina de Pediatría. Se apoya en subespecialistas y exámenes complementarios. Al recién nacido se le pide la “prueba de la audición” (otoemisiones acústicas), la “prueba del talón” (búsqueda de errores congénitos del metabolismo). Más adelante y según factores de riesgo se piden exámenes para evaluar sus caderas. </p> </div></div><p> Se hacen periódicamente exámenes por oftalmología, odontología, otorrinolaringología y por todo aquel especialista y prueba complementaria que se considere, para cumplir con los controles obligatorios para cada edad en general, y los adecuados para cada niño en particular.</p>",
+        "author": [4],
+        "categories": [
+            1,
+            4
+        ],
+        "tags": [
+            7,
+            8,
+            9
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url":"www.domain.com/username"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "date": "19th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "date": "20th Jan 2021",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "date": "18th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "¿Que son los Percentiles? Conoce más",
+        "image": [
+            "assets/img/blog/07.jpg"
+        ],
+        "views": 262,
+        "postdate": "20 de Septiembre de 2021",
+        "shortdescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Si eres madre o padre, es probable que creas saber qué son los percentiles. ¿Estás seguro que sí sabes lo que son? La respuesta según los especialistas es la siguiente: Los percentiles son porcentajes de las curvas de crecimiento que usan los médicos pediatras para -efectivamente- evaluar el crecimiento del niño, de acuerdo con unos factores que se aplican en todo el mundo en relación con el peso, la talla y el sexo. Estas curvas de crecimiento se dividen en dos grandes grupos: de 0 a 2 años y de 2 a 14 años. Además, se usan tablas diferentes para niños y niñas.</p><p> En las tablas de percentiles se pueden identificar varias líneas, cada una correspondiente a un número: 3, 10, 25, 50, 75, 90 y 97. ¿Esto que significa? Estos números son los que califican el progreso del niño. El percentil de la talla y el peso promedio es 50. Es decir, que si tu pediatra te dice que tu hijo está dentro de este porcentaje, está sobre la media y no hay ningún problema. El error está en malinterpretar los resultados de la medición. Siempre se debe tener en cuenta el peso y la talla en simultáneo.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/details/percentiles.jpg' alt='img'> </figure><h3 class='subtitle'> Características de cada percentil</h3><ul class='list-icon'><li>Percentil 3: Cuando un bebé se encuentra en este grupo, significa que hace parte del 3% de bebés de bajo paso, de acuerdo con los porcentajes normales. Aunque no es un signo de alarma, ante estos resultados se hace un cambio en la dieta o análisis médicos si el percentil no mejora después de unas semanas.</li><li>Percentil 10: También es un indicador de bajo peso. Sin embargo, no resulta ser un asunto de gravedad pues en la mayoría de casos, los bebés de este percentil tienen excelente salud.</li><li>Percentil 25: Igual que el percentil anterior, significa que son resultados del promedio. Sin embargo, las diferencias de peso entre estos niños y los niños de la media no son considerables. En algunos de estos casos, el bajo peso se interpreta como una cuestión hereditaria y no supone ningún problema.</li><li>Percentil 50: Esto significa que el bebé pesa y mide lo mismo que 50 bebés de una muestra de 100 de la misma edad y sexo, en los que se basa la tabla de crecimiento. En estos casos, no hay que preocuparse pues el niño hace parte del promedio.</li><li>Percentil 75: La talla y peso del bebé es un poco mayor que la de otros niños de su edad. Sin embargo, las diferencias en los datos no son abismales así que también se interpreta, inicialmente, como herencia del niño.</li><li>Percentil 90: Estos son bebés con talla y peso superior a lo indicado como promedio. No necesariamente quiere decir que el niño tiene sobrepeso o que está desarrollando obesidad, pues usualmente bebés muy altos se sitúan en este percentil.</li><li>Percentil 97: Es el límite de peso y talla para un bebé. Ubicarse en este percentil puede indicar problemas de salud que pueden ser tratados para evitar complicaciones. Evaluar si el bebé tiene problemas de crecimiento dependerá del pediatra que interprete estos resultados.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>Dice el Dr. Claudio zin</span> Se debe tener en cuenta que el crecimiento de un niño puede variar de percentil, sin que esto sea el indicador de un padecimiento grave.</blockquote><p class='mb-30'> En todo caso, se debe tener en cuenta que el crecimiento de un niño puede variar de percentil, sin que esto sea el indicador de un padecimiento grave. Lo importante a la hora de revisar la curva de crecimiento es que no se presenten variaciones repentinas en lapsos cortos de tiempo.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/details/percentiles2.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Para comprobar el avance y desarrollo de los niños, los pediatras utilizan los percentiles (porcentajes) y sitúan al niño en uno de los estándares, en relación con su talla y peso. Aunque los padres se enteran muy bien en cada consulta de las habilidades que adquiere su hijo, los percentiles no son tan fáciles de interpretar en casa. Por eso, el seguimiento que se hace al pequeño está basado en la observación de su conducta.</p>",
+        "author": [3],
+        "categories": [
+            1,
+            4
+        ],
+        "tags": [
+            10,
+            11,
+            12
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url":"www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url":"www.domain.com/username"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "date": "19th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "date": "20th Jan 2021",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "date": "18th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    }
+    
+]
