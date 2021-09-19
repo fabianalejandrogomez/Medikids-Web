@@ -12,7 +12,7 @@ class Team extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Medik - React Template | {pagelocation}</title>
+                    <title>Medikids | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"
